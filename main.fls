@@ -282,6 +282,8 @@ INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\lato\lato.sty
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\lato\lato.sty
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
@@ -290,6 +292,17 @@ INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.st
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\paracol\paracol.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\paracol\paracol.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\transparent\transparent.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\transparent\transparent.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\transparent\transparent-nometadata.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\transparent\transparent-nometadata.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\lato\ot1lato-tlf.fd
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\lato\ot1lato-tlf.fd
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\lato\ot1lato-tlf.fd
@@ -329,10 +342,6 @@ INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-OT1-TLF.tfm
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-OT1-TLF.tfm
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-OT1-TLF.tfm
-INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesomeone.fd
-INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesomeone.fd
-INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesomeone.fd
-INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome\FontAwesome--fontawesomeone.tfm
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesometwo.fd
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesometwo.fd
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesometwo.fd
@@ -343,7 +352,6 @@ INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-BoldItalic-OT1-TLF.tfm
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome\FontAwesome--fontawesometwo.tfm
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-OT1-TLF.tfm
-INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-OT1-TLF.tfm
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\lato\ts1lato-tlf.fd
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\lato\ts1lato-tlf.fd
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex\latex\lato\ts1lato-tlf.fd
@@ -354,10 +362,9 @@ INPUT C:\Users\lenovo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lato\a_y72t7m.enc
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-OT1-TLF.vf
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-OT1-TLF--base.tfm
-INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome\fontawesomeone.enc
+INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome\fontawesometwo.enc
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-OT1-TLF.vf
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-OT1-TLF--base.tfm
-INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome\fontawesometwo.enc
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-OT1-TLF.vf
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-OT1-TLF--base.tfm
 INPUT C:\Users\lenovo\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-BoldItalic-OT1-TLF.vf

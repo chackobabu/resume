@@ -24,7 +24,7 @@
 
 \LoadClass{extarticle}
 
-\RequirePackage[margin=2cm]{geometry}
+\RequirePackage[margin=1cm]{geometry}
 \RequirePackage{fontawesome}
 
 %% v1.1: Optionally load academicons
@@ -39,11 +39,14 @@
 \usepackage[hidelinks]{hyperref}
 \RequirePackage{xcolor}
 
+\definecolor{lightgraycustom}{rgb}{0.95, 0.95, 0.95}
+
 \colorlet{accent}{blue!70!black}
 \colorlet{heading}{blue}
 \colorlet{emphasis}{black}
 \colorlet{body}{black!80!white}
-\newcommand{\itemmarker}{{\small\textbullet}}
+
+\newcommand{\itemmarker}{{\textopenbullet}}
 \newcommand{\ratingmarker}{\faCircle}
 
 \RequirePackage{tikz}
@@ -60,7 +63,7 @@
 % \RequirePackage{marginfix}
 
 \setlength{\parindent}{0pt}
-\newcommand{\divider}{\textcolor{body!30}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\medskip}
+\newcommand{\divider}{\textcolor{gray}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\medskip}
 
 \newenvironment{fullwidth}{%
   \begin{adjustwidth}{}{\dimexpr-\marginparwidth-\marginparsep\relax}}
@@ -81,22 +84,26 @@
 \newcommand{\name}[1]{\def\@name{#1}}
 \newcommand{\tagline}[1]{\def\@tagline{#1}}
 \newcommand{\photo}[2]{\def\@photo{#2}\def\@photodiameter{#1}}
-\newcommand{\email}[1]{\printinfo{\emailsymbol}{#1}}
+\newcommand{\email}[1]{\printinfo{\color{teal}\mailsymbol}{#1}}
 \newcommand{\mailaddress}[1]{\printinfo{\mailsymbol}{#1}}
-\newcommand{\phone}[1]{\printinfo{\phonesymbol}{#1}}
-\newcommand{\homepage}[1]{\printinfo{\homepagesymbol}{#1}}
+\newcommand{\phone}[1]{\printinfo{\color{teal}\phonesymbol}{#1}}
+\newcommand{\homepage}[1]{\printinfo{\color{teal}\homepagesymbol}{#1}}
 \newcommand{\twitter}[1]{\printinfo{\twittersymbol}{#1}}
 \newcommand{\linkedin}[1]{\printinfo{\linkedinsymbol}{#1}}
 \newcommand{\github}[1]{\printinfo{\githubsymbol}{#1}}
 \newcommand{\orcid}[1]{\printinfo{\orcidsymbol}{#1}}
 \newcommand{\location}[1]{\printinfo{\locationsymbol}{#1}}
+\newcommand{\mylocation}[1]{\printinfo{\color{teal}\locationsymbol}{#1}}
 
-\newcommand{\personalinfo}[1]{\def\@personalinfo{#1}}
+
+\newcommand{\personalinfo}[1]
+{\def\@personalinfo
+{{\colorbox{lightgraycustom}{\makebox[\linewidth]{\bfseries{#1}}}}
+}}
 
 \newcommand{\makecvheader}{%
   \begingroup
-    % \ifdef{\@photodiameter}{\begin{minipage}{\dimexpr\linewidth-\@photodiameter-2em}}{}%
-    % \color{emphasis}%
+
     {\Huge\bfseries\centering\MakeUppercase{\@name}\par}
     \medskip
     {\large\bfseries\color{accent}\@tagline\par}
@@ -105,13 +112,16 @@
   \endgroup\medskip
 }
 
+% \colorbox{lightgray}{%
+%         %
+
 \renewenvironment{quote}{\color{accent}\itshape\large}{\par}
 
 \newcommand{\cvsection}[2][]{%
   \bigskip%
   % \ifstrequal{#1}{}{}{\marginpar{\vspace*{\dimexpr1pt-\baselineskip}\raggedright\input{#1}}}%
-  {\color{heading}\LARGE\bfseries\MakeUppercase{#2}}\\[-1ex]%
-  {\color{heading}\rule{\linewidth}{2pt}\par}\medskip
+  {\color{teal}\LARGE\bfseries\MakeUppercase{#2}}\\[-1ex]%
+  {\color{teal}\rule{\linewidth}{2pt}\par}\medskip
 }
 
 \newcommand{\cvsubsection}[1]{
@@ -126,7 +136,7 @@
 
 \newcommand{\cvrole}[2]{
    \textbf{#1}\hspace{0.5em}
-   \hfill\faCalendar\hspace{0.25em}#2}\par
+   \hfill{\color{gray}\faCalendar\hspace{0.25em}#2}}\par
    \vspace{1em}
    \par
   % \medskip
