@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.25)  25 MAY 2024 19:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.25)  25 MAY 2024 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -694,7 +694,9 @@ Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@output=\toks37
 \AP@partial=\box76
 \AP@footins=\box77
-)) (C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)) (C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks38
 \inpenc@posthook=\toks39
@@ -770,33 +772,33 @@ Package biblatex Warning: Load 'inputenc' before biblatex.
 
 \@quotelevel=\count445
 \@quotereset=\count446
-LaTeX Font Info:    Trying to load font information for OT1+lato-TLF on input line 33.
-(C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/lato\ot1lato-tlf.fd
-File: OT1lato-TLF.fd 2019/06/24 Font definitions for OT1/lato-TLF.
+LaTeX Font Info:    Trying to load font information for T1+lato-TLF on input line 34.
+(C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/lato\t1lato-tlf.fd
+File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 )
-LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 33.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 34.
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -832,7 +834,7 @@ LaTeX Font Info:    ... okay on input line 33.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 33.
+Package hyperref Info: Link coloring OFF on input line 34.
 (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -869,54 +871,54 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 33.
-Package biblatex Info: Reference segment=0 on input line 33.
+Package biblatex Info: Reference section=0 on input line 34.
+Package biblatex Info: Reference segment=0 on input line 34.
 \c@mv@tabular=\count453
 \c@mv@boldtabular=\count454
-LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 49.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 49.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 49.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 49.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 49.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 49.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 49.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 50.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 50.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 50.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 50.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 50.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 7.0pt on input line 50.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 50.
  (C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 49.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 50.
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 49--49
+Overfull \hbox (6.0pt too wide) in paragraph at lines 50--50
  [][][][][][][] 
  []
 
-LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 57.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 57.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 58.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 58.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 58.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 58.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 59.
-LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 61.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/it' will be
+(Font)              scaled to size 9.0pt on input line 59.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 60.
+LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 62.
 (C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 61.
+(Font)              scaled to size 9.0pt on input line 62.
  [1
 
-{C:/Users/lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_y72t7m.enc}{C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_vc7epu.enc}{C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc}] [2] (main.aux)
+{C:/Users/lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_cl4kdn.enc}{C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc}] [2] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -932,17 +934,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34346 strings out of 474485
- 689598 string characters out of 5743262
+ 34547 strings out of 474485
+ 691263 string characters out of 5743262
  1959542 words of memory out of 5000000
- 56140 multiletter control sequences out of 15000+600000
- 608754 words of font info for 61 fonts, out of 8000000 for 9000
+ 56338 multiletter control sequences out of 15000+600000
+ 827095 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,5n,121p,1191b,1148s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-BoldItalic.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Italic.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on main.pdf (2 pages, 128799 bytes).
+Output written on main.pdf (2 pages, 131284 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
